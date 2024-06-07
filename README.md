@@ -8,7 +8,10 @@
 
 This plugin provides email delivery using [SendGrid](https://sendgrid.com/).
 
-This branch is for use with CakePHP 4.0+. For CakePHP 3, please use cake-3.x branch.
+This branch is for use with CakePHP 5.0+. 
+
+* For CakePHP 4, please use cake-4.x branch.
+* For CakePHP 3, please use cake-3.x branch.
 
 ## Requirements
 
